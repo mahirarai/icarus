@@ -15,7 +15,6 @@ public class OpenView {
 	private int mainPaneHeight = 500;
 	private int mainPaneWidth = 800;
 	
-	// TODO
 	private Label titleLabel;
 	private Button beginButton;
 	private Button scoresButton;
