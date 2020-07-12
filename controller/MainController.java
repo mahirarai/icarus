@@ -40,14 +40,7 @@ public class MainController extends Application {
 		this.primaryStage = primaryStage;
 		this.game = new IcarusGame();
 		
-		setUpScenes(); // error moving to different views
-//		showOpenScene();
-//		showInstructionScene();
-//		showScoresScene();
-//		showCustomizeScene();
-//		showStoryScene();
-//		showGameScene();
-//		showEndScene();
+		setUpScenes(); 
 		
 		primaryStage.show(); 
 	}
